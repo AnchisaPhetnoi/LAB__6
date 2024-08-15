@@ -1,0 +1,16 @@
+dependencies:
+  LED:
+    component_hash: 688592a85d2ffacc14886881871d68c821fd5136f530da228e0bbf6786b8d511
+    source:
+      git: https://github.com/AnchisaPhetnoi/ESP32-LED-Component.git
+      path: components/LED
+      type: git
+    version: 37c785c3251593d554dfeee557d01159b8864081
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.3.0
+manifest_hash: 4d9e3d9fb918f726d0f24194ade568059c8314aaf922170e66ad6e568f823e45
+target: esp32
+version: 1.0.0
